@@ -1,0 +1,2 @@
+﻿  20220831_对齐输出.cpp
+E:\bc练习\20220831_对齐输出\20220831_对齐输出\20220831_对齐输出.cpp(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20220901_三个整数运算", "20220901_三个整数运算\20220901_三个整数运算.vcxproj", "{981E392F-2834-469F-9CB4-1731DAE21D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{981E392F-2834-469F-9CB4-1731DAE21D7B}.Debug|x64.ActiveCfg = Debug|x64
+		{981E392F-2834-469F-9CB4-1731DAE21D7B}.Debug|x64.Build.0 = Debug|x64
+		{981E392F-2834-469F-9CB4-1731DAE21D7B}.Debug|x86.ActiveCfg = Debug|Win32
+		{981E392F-2834-469F-9CB4-1731DAE21D7B}.Debug|x86.Build.0 = Debug|Win32
+		{981E392F-2834-469F-9CB4-1731DAE21D7B}.Release|x64.ActiveCfg = Release|x64
+		{981E392F-2834-469F-9CB4-1731DAE21D7B}.Release|x64.Build.0 = Release|x64
+		{981E392F-2834-469F-9CB4-1731DAE21D7B}.Release|x86.ActiveCfg = Release|Win32
+		{981E392F-2834-469F-9CB4-1731DAE21D7B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED25B9CE-98AC-4D96-B66D-246A0697F21B}
+	EndGlobalSection
+EndGlobal
